@@ -1,0 +1,5 @@
+1.1:
+ - Unity 5 support
+ - added ChromaKey shaders allowing using chroma key effect on materials instead of fullscreen effect (works on Unity 4 Free version)
+ - added image effect toggle
+ - fixed serialization bugs

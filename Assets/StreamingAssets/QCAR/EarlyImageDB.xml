@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fire_o_reversed" size="1.000000 0.960000" />
+    <ImageTarget name="fire_0_reversed" size="1.000000 1.198020" />
+    <ImageTarget name="fire_0" size="1.000000 1.198020" />
+    <ImageTarget name="fire_e" size="1.000000 0.963504" />
+    <ImageTarget name="fire_z" size="1.000000 0.924390" />
+    <ImageTarget name="fire_L" size="1.000000 1.100671" />
+    <ImageTarget name="fire_3" size="1.000000 1.258303" />
+    <ImageTarget name="fire_o" size="1.000000 0.960000" />
+    <ImageTarget name="fire_8" size="1.000000 1.273273" />
+    <ImageTarget name="fire_s" size="1.000000 1.197279" />
+  </Tracking>
+</QCARConfig>
